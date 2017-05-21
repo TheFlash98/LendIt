@@ -1,4 +1,6 @@
 # LendIt
-This repository uses a deploy key. The key corresponds to the ferozepurwala@WnCCServer and h
-as push access.
+
+### Deployed
+The application is live on [http://lendit.wncc-iitb.org/](http://lendit.wncc-iitb.org/).
+This repository uses a deploy key. The key is linked to the WnCC Server and has push access.
 
